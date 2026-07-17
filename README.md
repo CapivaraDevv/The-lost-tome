@@ -1,10 +1,10 @@
-# Biblioteca Arcana
+# The Lost Tome
 
 RPG 2D em Pixel Art desenvolvido utilizando a Godot Engine.
 
 ## Sobre o projeto
 
-Biblioteca Arcana é um jogo de exploração com temática de fantasia sombria, onde o jogador explora uma antiga biblioteca cheia de mistérios, livros mágicos e conhecimentos esquecidos.
+The Lost Tome é um jogo de exploração com temática de fantasia sombria, onde o jogador explora uma antiga biblioteca cheia de mistérios, livros mágicos e conhecimentos esquecidos.
 
 O projeto tem como foco criar uma experiência de aventura e descoberta, combinando exploração, narrativa e elementos de RPG.
 
