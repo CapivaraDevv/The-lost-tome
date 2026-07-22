@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://chyfasavbceir"]
+
+[ext_resource type="Script" uid="uid://ctvw5oejlxmyh" path="res://scripts/book.gd" id="1_1ldem"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_hl04o"]
+
+[node name="Book" type="Node2D" unique_id=402401165]
+script = ExtResource("1_1ldem")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=328303831]
+
+[node name="Area2D" type="Area2D" parent="." unique_id=1972470773]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D" unique_id=517527607]
+shape = SubResource("RectangleShape2D_hl04o")
